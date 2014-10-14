@@ -12,7 +12,7 @@ The name's Bond, James Bond. I need your help. I'm trying to get a message back 
 
 ### The Caesar Cipher
 
-The Caesar cipher takes in number as a 'key' - let's call it k - and shifts the letter in the message n places away alphabetically. For example,  if k = 3, the letter 'a' would shift three places to 'c', 'b' would shift three places to 'd', and so on. If you get to the end of alphabet and you need to keep shifting, you'd start at the end. So the letter 'x' shifted three places would be... x => y => z => a!
+The Caesar cipher takes in number as a 'key' - let's call it k - and shifts the letters in the message n places away alphabetically. For example,  if k = 3, the letter 'a' would shift three places to 'c', 'b' would shift three places to 'd', and so on. If you get to the end of alphabet and you need to keep shifting, you'd start at the end. So the letter 'x' shifted three places would be... x => y => z => a!
 
 Changing the key (k) would change the output as it is a different number of places that you are shifting the alphabet. Capish?
 
