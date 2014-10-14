@@ -6,6 +6,7 @@ type: stretch
 ---
 
 ## Crypto-Crazy!
+![bond](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL0yJvwkjZYnd4FEoI0y_3kqWUrzLKmQiziZBuO7ND_ozk-mNB-Q)
 
 The name's Bond, James Bond. I need your help. I'm trying to get a message back to MI6 in London, but I'm nervous that the Soviets will be able to read what I'm saying and figure out my plans. I need your crack programming and cryptographic skills to ensure that this doesn't happen. A cipher is a secret way of writing - and today you'll be writing the CAESAR CIPHER.
 
