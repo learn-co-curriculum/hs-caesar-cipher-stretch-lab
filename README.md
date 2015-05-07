@@ -21,7 +21,7 @@ For example, calling `caesar_encrypt(2, "Dog")` will return `"Fqi"`.
 ### Challenge Two: Decrypt
 You're now able to encrypt text using the Caesar cipher, but you also need to be able to decrypt text coming in from London. Write a method `caesar_decrypt` that takes in a key and a phrase, and deciphers the code.
 
-For example, calling `caesar_encrypt(2, "Fqi")` will return `"Dog"`.
+For example, calling `caesar_decrypt(2, "Fqi")` will return `"Dog"`.
 
 
 ### Resources
