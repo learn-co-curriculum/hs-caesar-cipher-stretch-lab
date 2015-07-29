@@ -1,9 +1,4 @@
----
-tags: kids, stretch, methods, cryptography
-languages: ruby
-level: 3
-type: stretch
----
+
 
 ### Crypto-Crazy!
 <img src="https://after-school-assets.s3.amazonaws.com/bond.jpeg" width="200px" align="right" hspace="10"> The name's Bond, James Bond. I need your help. I'm trying to get a message back to MI6 in London, but I'm nervous that the Soviets will be able to read what I'm saying and figure out my plans. I need your crack programming and cryptographic skills to ensure that this doesn't happen. A **cipher** is _a disguised way of writing_, a method of encrypting a message using an algorithm. Today you'll be writing the **Caesar cipher**.
