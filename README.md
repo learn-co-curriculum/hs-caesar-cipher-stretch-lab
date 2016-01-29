@@ -23,4 +23,4 @@ For example, calling `caesar_decrypt(2, "Fqi")` will return `"Dog"`.
 + How the Caesar Cipher was Cracked: https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/caesar-cipher
 + Exploring Frequency Fingerprints: https://www.khanacademy.org/computing/computer-science/cryptography/crypt/p/frequency-fingerprint-exploration
 
-<a href='https://learn.co/lessons/hs-caesar-cipher-stretch-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-caesar-cipher-stretch-lab' title='Crypto-Crazy!'>Crypto-Crazy!</a> on Learn.co and start learning to code for free.</p>
